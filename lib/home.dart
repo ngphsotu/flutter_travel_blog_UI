@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
-import 'widgets/travel_blog.dart';
 import 'widgets/most_popular.dart';
+import 'widgets/travel_blog.dart';
 
 class HomePage extends StatelessWidget {
   const HomePage({Key? key}) : super(key: key);

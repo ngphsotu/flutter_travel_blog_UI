@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:travel_blog/model/travel.dart';
+import 'model/travel.dart';
 
 class DetailPage extends StatelessWidget {
   final Travel travel;
